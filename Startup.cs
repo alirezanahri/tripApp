@@ -7,6 +7,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Trips.Data;
 
+
+
 namespace tripapp
 {
     public class Startup
